@@ -8,4 +8,4 @@ if Temperature >= 100:
 if Temperature <= 0:
     print("The water is frozen.")
 else:
-    print("The water is not frozen nor boiling.")
+    print("The water is not frozen nor boiling")
